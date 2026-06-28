@@ -1,0 +1,8 @@
+Las API ayudan a que las comunidades puedan compartir  información  de manera Oraganizada 
+y rápida. Permiten que diferetnes aplicaciones intercambien datos, sin necesidad de hacerlo manualmete.
+Una Api suele usarse para enviar reportes, alertas, solicitudes de apoyo.
+Las instituciones se benefician también de las API dadoa que reciben informacion
+de las comunidades para toma de decisiones con datos actualizados
+entonces las API son herramientas importantes para crear solucones digitales
+que benefician a las comuidades, por ende personas conetadas pueden gestionar mejor 
+sus necesidades con apoyo de plataformas organizadas.

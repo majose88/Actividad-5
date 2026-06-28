@@ -1,0 +1,7 @@
+Ruta POST /reporte recibe información enviada por el usuario o aplicación
+Toma el mensaje enviado en el cuerpo de la solicitud(req.body.mensaje) y reponde
+con un mensaje en formato JSON indicando qu el reporte fue recibido.
+
+Para qué podria servir una aplicación comunitaria:
+Para  que  la comunida envién reportes en relación a problemas de 
+comunidad, La aplicación recib el reporte y devuelve una confimación al usuario.
